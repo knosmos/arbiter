@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/light.css">
+    </head>
+    <body>
+        <style>
+            html, body {
+                background-color:rgb(250, 250, 250);
+            }
+            .box-container {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+                grid-gap: 20px;
+            }
+            .box {
+                border: 2px solid rgb(155, 155, 155);
+                padding: 10px;
+                margin-bottom: 20px;
+                border-radius: 5px;
+                background-color: rgb(253, 253, 253);
+                box-shadow: 0px 0px 20px rgb(237, 237, 237);
+            }
+            fieldset {
+                border-width: 2px;
+            }
+            label {
+                cursor: pointer;
+            }
+        </style>
+        <h1>Arbiter</h1>
+        <a style="color: rgb(165, 165, 165)">[admin dashboard]</a>
+        <hr>
+        <p><i>currently ranking:</i></p>
+        <div class="box-container">
+            <div class="box">
+                <h2><a>Nuclear Fusion Reactor</a></h2>
+                <hr>
+                Mauris nisi ligula, ullamcorper eu lectus ut, elementum commodo diam. Sed accumsan sem id urna tempus aliquam. Integer porttitor mollis eleifend. Pellentesque nec porttitor felis. Nam vitae odio consectetur, luctus ante a, dictum velit. Duis vitae est sit amet arcu convallis fringilla vitae nec felis.
+            </div>
+            <div class="box">
+                <h2><a>Instant Ramen I Found By The Side Of The Road</a></h2>
+                <hr>
+                Praesent ornare faucibus ex, eget convallis odio fermentum ac. Fusce nec placerat mauris, at blandit sapien. Cras vitae sem sit amet turpis congue suscipit at ac risus. Fusce blandit nisl eget dui facilisis fringilla eu quis ante. Integer sem mauris, semper quis molestie in, luctus et nisl. Cras suscipit lacus id euismod euismod. Vivamus eget lacus sed nisi accumsan egestas at id elit.
+            </div>            
+        </div>
+        <hr>
+        <p>Choose the best project for each category:</p>
+        <form>
+            <fieldset>
+                <legend>overall</legend>
+                <input type="radio" name="overall" id="option1-overall" value="option1"><label for="option1-overall">Nuclear Fusion Reactor</label><br>
+                <input type="radio" name="overall" id="option2-overall" value="option2"><label for="option2-overall">Instant Ramen I Found By The Side Of The Road</label>
+            </fieldset>
+            <fieldset>
+                <legend>hardware</legend>
+                <input type="radio" name="hardware" id="option1-hardware" value="option1"><label for="option1-hardware">Nuclear Fusion Reactor</label><br>
+                <input type="radio" name="hardware" id="option2-hardware" value="option2"><label for="option2-hardware">Instant Ramen I Found By The Side Of The Road</label>
+            </fieldset>
+            <fieldset>
+                <legend>webapp</legend>
+                <input type="radio" name="webapp" id="option1-webapp" value="option1"><label for="option1-webapp">Nuclear Fusion Reactor</label><br>
+                <input type="radio" name="webapp" id="option2-webapp" value="option2"><label for="option2-webapp">Instant Ramen I Found By The Side Of The Road</label>
+            </fieldset>
+            <fieldset>
+                <legend>beginner</legend>
+                <input type="radio" name="beginner" id="option1-beginner" value="option1"><label for="option1-beginner">Nuclear Fusion Reactor</label><br>
+                <input type="radio" name="beginner" id="option2-beginner" value="option2"><label for="option2-beginner">Instant Ramen I Found By The Side Of The Road</label>
+            </fieldset>
+            <br>
+            <textarea placeholder="Notes (optional)" name="notes"></textarea>
+            <br>
+            <input type="submit">
+        </form>
+    </body>
+</html>
