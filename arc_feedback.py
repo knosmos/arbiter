@@ -3,6 +3,7 @@ Exact and approximate feedback arc set computation for directed graphs.
 '''
 
 import itertools, toposort
+from log import print
 
 def approx_ranking(graph):
     '''
@@ -26,7 +27,7 @@ def approx_ranking(graph):
 
     # Print result
     for project in res:
-        print(f"{project[0]} -> Wins: {project[1]["wins"]}, Losses: {project[1]["losses"]}, Percent: {project[1]["percent"]:.2f}")
+        print(f'{project[0]} -> Wins: {project[1]["wins"]}, Losses: {project[1]["losses"]}, Percent: {project[1]["percent"]:.2f}')
 
     return res
 

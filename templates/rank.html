@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block content %}
+<hr>
+<i>Rank the following projects:</i>
+<br><br>
+<div id="list">
+    {% for project in projects %}
+        <div class="box" data-id="{{ project[0] }}"><a href="{{ project[2] }}">{{ project[0] }}</a> - {{ project[1] }}</div>
+    {% endfor %}
+</div>
+<br>
+<button onclick="submit()">Submit</button>
+<script>
+    let order;
+    let sortable = Sortable.create(list, {
+        animation: 150,
+        store: {
+            set: function (sortable) {
+                order = sortable.toArray();
+                console.log(order);
+            }
+        }
+    });
+    order = sortable.toArray();
+
+    function submit() {
+        console.log(order);
+        console.log(JSON.stringify({"order": order}));
+        fetch("", {
+            "method": "POST",
+            "headers": {"Content-Type": "application/json"},
+            "body": JSON.stringify({"order": order}),
+        }).then(response => {
+            console.log(response);
+            if (response.status == 200) {
+                alert("Success!");
+            } else {
+                alert("Error: " + response.status);
+            }
+        });
+    }
+</script>
+{% endblock %}

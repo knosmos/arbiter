@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>HackPHS 2022 Judging System</h2>
+<hr>
+<p><i>All systems nominal</i></p>
+<a href="/log">Server Log</a>
+<p>Received responses from {{ total - awaiting|length }}/{{ total }} judges</p>
+<p>Awaiting responses from:
+{% for judge in awaiting %}
+    {{ judge }},
+{% endfor %}
+</p>
+<h3>Current Ranking:</h3>
+{% if ranking %}
+<table>
+    <tr>
+        <th>Rank</th>
+        <th>Project</th>
+        <th>Win %</th>
+    </tr>
+    {% for project in ranking %}
+    <tr>
+        <td>{{ loop.index }}</td>
+        <td>{{ project[0] }}</td>
+        <td>{{ project[1] }}</td>
+    </tr>
+    {% endfor %}
+</table>
+{% else %}
+<p>Insufficient data to construct ranking.</p>
+{% endif %}
+
+{% endblock %}

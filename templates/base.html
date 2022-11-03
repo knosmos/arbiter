@@ -1,12 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/light.css">
         <script src="https://cdn.jsdelivr.net/npm/sortablejs@latest/Sortable.min.js"></script>
     </head>
     <body>
+        <style>
+            html, body {
+                background-color:rgb(250, 250, 250);
+            }
+            .box-container {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+                grid-gap: 20px;
+            }
+            .box {
+                border: 2px solid var(--focus);
+                padding: 10px;
+                margin-bottom: 10px;
+                border-radius: 5px;
+                background-color: rgb(253, 253, 253);
+                cursor: pointer;
+            }
+            .box::before {
+                content: "⠿ ";
+                color: var(--focus);
+                margin-right: 5px;
+            }
+            fieldset {
+                border-width: 2px;
+            }
+            label {
+                cursor: pointer;
+            }
+        </style>
         <h1>Arbiter</h1>
-        <hr>
         {% block content %}
         {% endblock %}
     </body>
