@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/light.css">
+        <script src="https://cdn.jsdelivr.net/npm/sortablejs@latest/Sortable.min.js"></script>
+    </head>
+    <body>
+        <style>
+            html, body {
+                background-color:rgb(250, 250, 250);
+            }
+            .box-container {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+                grid-gap: 20px;
+            }
+            .box {
+                border: 2px solid var(--focus);
+                padding: 10px;
+                margin-bottom: 10px;
+                border-radius: 5px;
+                background-color: rgb(253, 253, 253);
+                cursor: pointer;
+            }
+            .box::before {
+                content: "⠿ ";
+                color: var(--focus);
+                margin-right: 5px;
+            }
+            fieldset {
+                border-width: 2px;
+            }
+            label {
+                cursor: pointer;
+            }
+        </style>
+        <h1>Arbiter</h1>
+        <a style="color: rgb(165, 165, 165)">[admin dashboard]</a>
+        <hr>
+        <i>Rank the following projects:</i>
+        <br><br>
+        <div id="list">
+            <div class="box" data-id="1"><a>Project 1</a> - some description here.</div>
+            <div class="box" data-id="2"><a>Project 2</a> - there is also some description here.</div>
+            <div class="box" data-id="3"><a>Project 3</a> - NUKLAR FUSHIN REACTOR</div>
+            <div class="box" data-id="4"><a>Project 4</a> - minimum arc feedback set based hackathon judging system</div>
+            <div class="box" data-id="5"><a>Project 5</a> - look it even has a fancy draggable interface</div>
+        </div>
+        <br>
+        <hr>
+        <br>
+        <textarea placeholder="Notes (optional)" name="notes"></textarea>
+        <br>
+        <input type="submit">
+        <script>
+            Sortable.create(list, {
+                animation: 150,
+                store: {
+                    set: function (sortable) {
+                        var order = sortable.toArray();
+                        alert(order);
+                    }
+                }
+            });
+        </script>
+    </body>
+</html>
