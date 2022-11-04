@@ -22,7 +22,7 @@ Loaded file: {{ csv_filename }}
 {% endfor %}
 </p>
 <hr>
-<h3>Current Top 5 Ranking:</h3>
+<h3>Minimum Upset Ranking</h3>
 {% if top5 %}
 <table>
     <tr>
@@ -40,7 +40,7 @@ Loaded file: {{ csv_filename }}
 <p>Insufficient data to construct ranking.</p>
 {% endif %}
 <hr>
-<h3>Current Full Ranking:</h3>
+<h3>Full Approximate Ranking</h3>
 {% if ranking %}
 <table>
     <tr>
@@ -59,7 +59,7 @@ Loaded file: {{ csv_filename }}
 {% else %}
 <p>Insufficient data to construct ranking.</p>
 {% endif %}
-<hr>
+
 <footer>
     Built by Jieruei Chang <a href="jieruei.github.io">@knosmos</a> with &lt;3<br>
     Hosted on Render
