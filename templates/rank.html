@@ -1,13 +1,16 @@
 {% extends "base.html" %}
 {% block content %}
 <hr>
-<i>Rank the following projects:</i>
+Rank the following projects (drag to reorder):
 <br><br>
-<div id="list">
+<ol id="list">
     {% for project in projects %}
-        <div class="box" data-id="{{ project[0] }}"><a href="{{ project[2] }}">{{ project[0] }}</a> - {{ project[1] }}</div>
+        <li class="box" data-id="{{ project[0] }}"><a href="{{ project[2] }}">{{ project[0] }}</a>
+            <span style="color:rgb(180, 180, 180)">│</span>
+            {{ project[1] }}
+        </li>
     {% endfor %}
-</div>
+</ol>
 <br>
 <button onclick="submit()">Submit</button>
 <script>

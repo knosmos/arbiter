@@ -8,7 +8,7 @@
 <br>
 <hr>
 <br>
-Loaded file: {{ csv_filename }}
+Loaded file: {{ csv_filename }}<br><br>
 <form method="post" enctype=multipart/form-data onSubmit="document.getElementById('submit').disabled=true;">
     <input type="file" value="Select CSV" style="float:left" name="file" accept = ".csv" id="file" required>
     <input type="submit" value="Load File" style="float:right">
@@ -18,7 +18,7 @@ Loaded file: {{ csv_filename }}
 <p>Received responses from {{ total - awaiting|length }}/{{ total }} judges</p>
 <p>Awaiting responses from:
 {% for judge in awaiting %}
-    <a href="/rank/{{ judge }}">{{ judge }}</a>,
+    <a href="/rank/{{ judge }}">{{ judge }}</a>
 {% endfor %}
 </p>
 <hr>
@@ -62,6 +62,5 @@ Loaded file: {{ csv_filename }}
 
 <footer>
     Built by Jieruei Chang <a href="jieruei.github.io">@knosmos</a> with &lt;3<br>
-    Hosted on Render
 </footer>
 {% endblock %}

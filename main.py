@@ -43,6 +43,8 @@ def initialize():
     top_5_exact = []
     rankings_graph = []
 
+initialize()
+
 print("Awaiting responses ======================", important=True)
 
 @app.route('/rank/<id>', methods=["GET", "POST"])

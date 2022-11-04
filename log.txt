@@ -3766,3 +3766,778 @@ Project Distribution ======================
   * Judge 17 : omicron, iota, theta, pi, alpha
   * Judge 18 : rho, kappa, delta, upsilon, xi
   * Judge 19 : eta, nu, beta, epsilon, lambda
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-04 17:18:55.377134
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-04 17:18:55.649004
+
+Awaiting responses ======================
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : SIX TEEN, 15, nine, NineTeen, tw,en,ty
+  * Judge 1 : Project 2, four, five, 14, thir-teen
+  * Judge 2 : seven, six, seven"te'en, ten, twelve
+  * Judge 3 : SIX TEEN, Project 3, Project 1, PROJ ELEVEN, eight
+  * Judge 4 : five, Project 1, six, thir-teen, SIX TEEN
+  * Judge 5 : four, Project 2, PROJ ELEVEN, nine, tw,en,ty
+  * Judge 6 : ten, twelve, 14, SIX TEEN, NineTeen
+  * Judge 7 : 15, seven"te'en, eight, seven, Project 3
+  * Judge 8 : Project 2, twelve, 15, thir-teen, SIX TEEN
+  * Judge 9 : eight, five, SIX TEEN, Project 3, NineTeen
+  * Judge 10 : 14, six, seven, nine, tw,en,ty
+  * Judge 11 : four, seven"te'en, PROJ ELEVEN, ten, Project 1
+  * Judge 12 : five, seven, nine, NineTeen, 15
+  * Judge 13 : 14, twelve, seven"te'en, thir-teen, ten
+  * Judge 14 : six, eight, tw,en,ty, SIX TEEN, PROJ ELEVEN
+  * Judge 15 : Project 2, SIX TEEN, four, Project 1, Project 3
+  * Judge 16 : twelve, 14, Project 2, seven, four
+  * Judge 17 : six, SIX TEEN, tw,en,ty, NineTeen, five
+  * Judge 18 : PROJ ELEVEN, Project 3, 15, Project 1, ten
+  * Judge 19 : thir-teen, eight, nine, seven"te'en, SIX TEEN
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-04 17:22:05.163395
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-04 17:22:05.431463
+
+Awaiting responses ======================
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : PROJ ELEVEN, SIX TEEN, 14, NineTeen, 15
+  * Judge 1 : thir-teen, SIX TEEN, Project 3, eight, six
+  * Judge 2 : Project 2, nine, twelve, Project 1, tw,en,ty
+  * Judge 3 : five, seven"te'en, four, ten, seven
+  * Judge 4 : 15, SIX TEEN, tw,en,ty, twelve, nine
+  * Judge 5 : eight, PROJ ELEVEN, six, thir-teen, seven"te'en
+  * Judge 6 : NineTeen, Project 2, 14, five, seven
+  * Judge 7 : ten, SIX TEEN, four, Project 3, Project 1
+  * Judge 8 : seven, nine, seven"te'en, twelve, SIX TEEN
+  * Judge 9 : five, ten, Project 3, Project 1, six
+  * Judge 10 : 14, 15, tw,en,ty, eight, PROJ ELEVEN
+  * Judge 11 : thir-teen, Project 2, SIX TEEN, four, NineTeen
+  * Judge 12 : Project 2, Project 1, PROJ ELEVEN, Project 3, eight
+  * Judge 13 : six, twelve, five, seven"te'en, ten
+  * Judge 14 : four, SIX TEEN, 14, seven, NineTeen
+  * Judge 15 : nine, thir-teen, 15, SIX TEEN, tw,en,ty
+  * Judge 16 : SIX TEEN, PROJ ELEVEN, six, Project 2, tw,en,ty
+  * Judge 17 : 14, SIX TEEN, Project 1, eight, ten
+  * Judge 18 : Project 3, thir-teen, twelve, nine, four
+  * Judge 19 : seven, 15, five, NineTeen, seven"te'en
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-04 17:25:37.860894
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-04 17:25:38.112752
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-04 17:25:52.763023
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : NineTeen, Project 1, PROJ ELEVEN, 15, five
+  * Judge 1 : 14, six, seven, SIX TEEN, nine
+  * Judge 2 : Project 3, ten, four, twelve, eight
+  * Judge 3 : SIX TEEN, thir-teen, tw,en,ty, seven"te'en, Project 2
+  * Judge 4 : Project 2, nine, 15, NineTeen, 14
+  * Judge 5 : ten, PROJ ELEVEN, Project 3, five, seven
+  * Judge 6 : SIX TEEN, twelve, Project 1, seven"te'en, eight
+  * Judge 7 : six, thir-teen, four, tw,en,ty, SIX TEEN
+  * Judge 8 : six, PROJ ELEVEN, ten, twelve, 15
+  * Judge 9 : thir-teen, nine, 14, Project 3, SIX TEEN
+  * Judge 10 : SIX TEEN, eight, NineTeen, tw,en,ty, five
+  * Judge 11 : Project 2, seven, seven"te'en, four, Project 1
+  * Judge 12 : four, six, eight, five, seven
+  * Judge 13 : Project 1, NineTeen, PROJ ELEVEN, SIX TEEN, nine
+  * Judge 14 : SIX TEEN, tw,en,ty, thir-teen, Project 2, 15
+  * Judge 15 : seven"te'en, 14, ten, Project 3, twelve
+  * Judge 16 : Project 1, Project 2, 15, seven"te'en, nine
+  * Judge 17 : twelve, five, SIX TEEN, Project 3, thir-teen
+  * Judge 18 : ten, tw,en,ty, seven, PROJ ELEVEN, 14
+  * Judge 19 : four, SIX TEEN, eight, NineTeen, six
+
+Awaiting responses ======================
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : seven"te'en, Project 3, PROJ ELEVEN, Project 1, 15
+  * Judge 1 : seven, ten, Project 2, SIX TEEN, 14
+  * Judge 2 : six, four, nine, twelve, SIX TEEN
+  * Judge 3 : thir-teen, five, tw,en,ty, eight, NineTeen
+  * Judge 4 : seven"te'en, five, four, 15, six
+  * Judge 5 : nine, SIX TEEN, Project 2, twelve, eight
+  * Judge 6 : NineTeen, Project 1, tw,en,ty, PROJ ELEVEN, Project 3
+  * Judge 7 : seven, ten, thir-teen, 14, SIX TEEN
+  * Judge 8 : four, twelve, eight, Project 2, SIX TEEN
+  * Judge 9 : ten, SIX TEEN, seven, thir-teen, 15
+  * Judge 10 : nine, 14, NineTeen, Project 1, six
+  * Judge 11 : seven"te'en, PROJ ELEVEN, five, tw,en,ty, Project 3
+  * Judge 12 : 14, twelve, seven"te'en, SIX TEEN, six
+  * Judge 13 : ten, SIX TEEN, eight, thir-teen, tw,en,ty
+  * Judge 14 : 15, Project 2, nine, seven, five
+  * Judge 15 : Project 3, PROJ ELEVEN, NineTeen, Project 1, four
+  * Judge 16 : 14, NineTeen, ten, nine, seven"te'en
+  * Judge 17 : four, PROJ ELEVEN, 15, Project 1, SIX TEEN
+  * Judge 18 : six, SIX TEEN, seven, eight, tw,en,ty
+  * Judge 19 : twelve, Project 2, Project 3, five, thir-teen
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-04 17:32:12.690150
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : Project 3, eight, five, NineTeen, Project 2
+  * Judge 1 : SIX TEEN, 14, Project 1, six, twelve
+  * Judge 2 : nine, thir-teen, four, PROJ ELEVEN, seven"te'en
+  * Judge 3 : 15, ten, seven, tw,en,ty, SIX TEEN
+  * Judge 4 : seven, NineTeen, Project 1, thir-teen, twelve
+  * Judge 5 : ten, tw,en,ty, eight, nine, Project 2
+  * Judge 6 : seven"te'en, five, four, SIX TEEN, six
+  * Judge 7 : SIX TEEN, 15, PROJ ELEVEN, Project 3, 14
+  * Judge 8 : SIX TEEN, six, Project 2, Project 3, eight
+  * Judge 9 : seven, four, 14, NineTeen, SIX TEEN
+  * Judge 10 : twelve, 15, Project 1, ten, five
+  * Judge 11 : seven"te'en, tw,en,ty, thir-teen, nine, PROJ ELEVEN
+  * Judge 12 : ten, PROJ ELEVEN, NineTeen, Project 2, Project 1
+  * Judge 13 : SIX TEEN, Project 3, tw,en,ty, six, four
+  * Judge 14 : twelve, nine, 15, 14, seven"te'en
+  * Judge 15 : five, SIX TEEN, thir-teen, seven, eight
+  * Judge 16 : 14, tw,en,ty, eight, seven"te'en, five
+  * Judge 17 : six, Project 3, PROJ ELEVEN, SIX TEEN, thir-teen
+  * Judge 18 : 15, NineTeen, Project 2, SIX TEEN, ten
+  * Judge 19 : Project 1, four, twelve, seven, nine
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-04 17:32:13.046318
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : seven, five, eight, NineTeen, SIX TEEN
+  * Judge 1 : twelve, Project 1, thir-teen, SIX TEEN, ten
+  * Judge 2 : four, six, Project 2, 15, PROJ ELEVEN
+  * Judge 3 : seven"te'en, nine, tw,en,ty, 14, Project 3
+  * Judge 4 : ten, six, SIX TEEN, seven"te'en, PROJ ELEVEN
+  * Judge 5 : seven, Project 1, five, NineTeen, 15
+  * Judge 6 : 14, Project 2, four, SIX TEEN, twelve
+  * Judge 7 : eight, thir-teen, tw,en,ty, nine, Project 3
+  * Judge 8 : 14, Project 3, SIX TEEN, 15, five
+  * Judge 9 : eight, nine, twelve, tw,en,ty, thir-teen
+  * Judge 10 : NineTeen, Project 1, seven"te'en, Project 2, seven
+  * Judge 11 : PROJ ELEVEN, four, SIX TEEN, six, ten
+  * Judge 12 : eight, seven, 14, Project 3, tw,en,ty
+  * Judge 13 : 15, nine, Project 1, five, SIX TEEN
+  * Judge 14 : thir-teen, six, twelve, PROJ ELEVEN, ten
+  * Judge 15 : Project 2, SIX TEEN, NineTeen, seven"te'en, four
+  * Judge 16 : NineTeen, twelve, nine, seven"te'en, tw,en,ty
+  * Judge 17 : PROJ ELEVEN, four, ten, SIX TEEN, Project 2
+  * Judge 18 : Project 1, Project 3, thir-teen, 14, five
+  * Judge 19 : eight, seven, six, 15, SIX TEEN
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-04 17:37:04.353120
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : six, NineTeen, Project 2, four, eight
+  * Judge 1 : five, SIX TEEN, 15, ten, 14
+  * Judge 2 : seven"te'en, nine, seven, twelve, Project 1
+  * Judge 3 : tw,en,ty, Project 3, thir-teen, SIX TEEN, PROJ ELEVEN
+  * Judge 4 : PROJ ELEVEN, 14, nine, tw,en,ty, SIX TEEN
+  * Judge 5 : Project 3, NineTeen, six, seven"te'en, Project 1
+  * Judge 6 : five, twelve, seven, SIX TEEN, Project 2
+  * Judge 7 : four, ten, eight, 15, thir-teen
+  * Judge 8 : nine, PROJ ELEVEN, five, seven"te'en, Project 1
+  * Judge 9 : SIX TEEN, eight, ten, six, thir-teen
+  * Judge 10 : Project 3, twelve, 14, seven, 15
+  * Judge 11 : Project 2, SIX TEEN, four, tw,en,ty, NineTeen
+  * Judge 12 : Project 3, SIX TEEN, nine, 14, Project 1
+  * Judge 13 : 15, seven, ten, eight, PROJ ELEVEN
+  * Judge 14 : five, tw,en,ty, six, NineTeen, Project 2
+  * Judge 15 : four, SIX TEEN, seven"te'en, thir-teen, twelve
+  * Judge 16 : eight, thir-teen, six, five, nine
+  * Judge 17 : PROJ ELEVEN, SIX TEEN, Project 2, Project 3, seven
+  * Judge 18 : 15, NineTeen, ten, twelve, 14
+  * Judge 19 : seven"te'en, Project 1, tw,en,ty, SIX TEEN, four
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-04 17:37:04.643794
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : five, 14, SIX TEEN, PROJ ELEVEN, seven
+  * Judge 1 : seven"te'en, six, twelve, nine, Project 2
+  * Judge 2 : Project 1, tw,en,ty, ten, 15, eight
+  * Judge 3 : Project 3, thir-teen, SIX TEEN, four, NineTeen
+  * Judge 4 : eight, 14, nine, SIX TEEN, NineTeen
+  * Judge 5 : PROJ ELEVEN, tw,en,ty, Project 3, seven, twelve
+  * Judge 6 : SIX TEEN, four, seven"te'en, 15, ten
+  * Judge 7 : six, thir-teen, Project 2, Project 1, five
+  * Judge 8 : six, Project 2, SIX TEEN, PROJ ELEVEN, twelve
+  * Judge 9 : NineTeen, nine, SIX TEEN, four, 14
+  * Judge 10 : eight, thir-teen, tw,en,ty, seven, Project 3
+  * Judge 11 : ten, 15, five, Project 1, seven"te'en
+  * Judge 12 : twelve, seven"te'en, eight, Project 1, thir-teen
+  * Judge 13 : Project 2, NineTeen, four, 15, SIX TEEN
+  * Judge 14 : ten, tw,en,ty, seven, PROJ ELEVEN, six
+  * Judge 15 : SIX TEEN, five, 14, Project 3, nine
+  * Judge 16 : PROJ ELEVEN, 14, thir-teen, NineTeen, seven
+  * Judge 17 : nine, Project 3, ten, tw,en,ty, six
+  * Judge 18 : SIX TEEN, Project 1, four, eight, 15
+  * Judge 19 : Project 2, five, twelve, seven"te'en, SIX TEEN
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-04 17:37:45.398488
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : six, PROJ ELEVEN, NineTeen, seven"te'en, thir-teen
+  * Judge 1 : Project 1, ten, nine, SIX TEEN, twelve
+  * Judge 2 : eight, SIX TEEN, Project 3, Project 2, 15
+  * Judge 3 : four, seven, tw,en,ty, 14, five
+  * Judge 4 : seven, nine, tw,en,ty, NineTeen, four
+  * Judge 5 : 14, six, SIX TEEN, five, Project 1
+  * Judge 6 : PROJ ELEVEN, Project 3, ten, 15, Project 2
+  * Judge 7 : seven"te'en, twelve, SIX TEEN, thir-teen, eight
+  * Judge 8 : SIX TEEN, PROJ ELEVEN, thir-teen, twelve, 14
+  * Judge 9 : five, seven"te'en, SIX TEEN, seven, NineTeen
+  * Judge 10 : ten, tw,en,ty, Project 3, six, Project 1
+  * Judge 11 : nine, eight, 15, four, Project 2
+  * Judge 12 : NineTeen, thir-teen, eight, Project 2, six
+  * Judge 13 : 14, SIX TEEN, Project 3, PROJ ELEVEN, Project 1
+  * Judge 14 : SIX TEEN, ten, five, 15, twelve
+  * Judge 15 : tw,en,ty, nine, seven, seven"te'en, four
+  * Judge 16 : ten, 14, tw,en,ty, 15, seven"te'en
+  * Judge 17 : seven, NineTeen, Project 3, SIX TEEN, thir-teen
+  * Judge 18 : four, Project 2, Project 1, six, PROJ ELEVEN
+  * Judge 19 : five, nine, twelve, eight, SIX TEEN
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-04 17:37:45.671546
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : four, seven"te'en, NineTeen, eight, nine
+  * Judge 1 : twelve, PROJ ELEVEN, thir-teen, SIX TEEN, Project 1
+  * Judge 2 : 15, 14, tw,en,ty, five, Project 3
+  * Judge 3 : six, seven, Project 2, ten, SIX TEEN
+  * Judge 4 : SIX TEEN, NineTeen, ten, PROJ ELEVEN, eight
+  * Judge 5 : nine, 15, seven"te'en, thir-teen, tw,en,ty
+  * Judge 6 : four, Project 1, SIX TEEN, seven, Project 3
+  * Judge 7 : twelve, five, 14, six, Project 2
+  * Judge 8 : Project 3, SIX TEEN, four, seven, ten
+  * Judge 9 : SIX TEEN, Project 2, nine, five, PROJ ELEVEN
+  * Judge 10 : tw,en,ty, Project 1, thir-teen, 14, NineTeen
+  * Judge 11 : seven"te'en, 15, twelve, six, eight
+  * Judge 12 : five, NineTeen, SIX TEEN, four, Project 3
+  * Judge 13 : 15, thir-teen, SIX TEEN, Project 1, ten
+  * Judge 14 : 14, seven, nine, seven"te'en, six
+  * Judge 15 : Project 2, tw,en,ty, twelve, eight, PROJ ELEVEN
+  * Judge 16 : nine, 15, five, NineTeen, ten
+  * Judge 17 : seven"te'en, eight, seven, SIX TEEN, four
+  * Judge 18 : six, twelve, PROJ ELEVEN, 14, Project 3
+  * Judge 19 : SIX TEEN, tw,en,ty, thir-teen, Project 1, Project 2
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-04 17:38:23.899318
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : SIX TEEN, six, seven"te'en, NineTeen, thir-teen
+  * Judge 1 : four, Project 3, seven, twelve, 15
+  * Judge 2 : SIX TEEN, tw,en,ty, nine, Project 2, eight
+  * Judge 3 : 14, PROJ ELEVEN, ten, Project 1, five
+  * Judge 4 : Project 1, four, nine, thir-teen, seven"te'en
+  * Judge 5 : 15, PROJ ELEVEN, ten, tw,en,ty, NineTeen
+  * Judge 6 : 14, SIX TEEN, five, eight, twelve
+  * Judge 7 : Project 2, seven, six, SIX TEEN, Project 3
+  * Judge 8 : SIX TEEN, 15, thir-teen, twelve, PROJ ELEVEN
+  * Judge 9 : ten, Project 3, nine, Project 1, seven
+  * Judge 10 : SIX TEEN, six, four, NineTeen, tw,en,ty
+  * Judge 11 : Project 2, seven"te'en, 14, five, eight
+  * Judge 12 : seven"te'en, four, Project 2, twelve, 14
+  * Judge 13 : SIX TEEN, Project 1, ten, tw,en,ty, PROJ ELEVEN
+  * Judge 14 : six, seven, SIX TEEN, nine, eight
+  * Judge 15 : thir-teen, five, NineTeen, 15, Project 3
+  * Judge 16 : SIX TEEN, ten, four, nine, 14
+  * Judge 17 : eight, seven"te'en, six, PROJ ELEVEN, five
+  * Judge 18 : thir-teen, tw,en,ty, Project 3, NineTeen, seven
+  * Judge 19 : Project 2, 15, twelve, Project 1, SIX TEEN
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-04 17:38:24.171443
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : seven"te'en, twelve, five, Project 2, six
+  * Judge 1 : SIX TEEN, PROJ ELEVEN, Project 3, tw,en,ty, 15
+  * Judge 2 : NineTeen, ten, Project 1, seven, eight
+  * Judge 3 : 14, nine, four, SIX TEEN, thir-teen
+  * Judge 4 : PROJ ELEVEN, seven"te'en, thir-teen, four, NineTeen
+  * Judge 5 : Project 2, five, SIX TEEN, nine, tw,en,ty
+  * Judge 6 : ten, twelve, seven, SIX TEEN, eight
+  * Judge 7 : Project 1, six, Project 3, 15, 14
+  * Judge 8 : NineTeen, Project 2, eight, PROJ ELEVEN, SIX TEEN
+  * Judge 9 : seven, twelve, Project 3, thir-teen, 14
+  * Judge 10 : ten, SIX TEEN, 15, seven"te'en, tw,en,ty
+  * Judge 11 : Project 1, six, four, five, nine
+  * Judge 12 : 14, Project 2, nine, six, 15
+  * Judge 13 : SIX TEEN, ten, four, tw,en,ty, eight
+  * Judge 14 : seven, Project 3, SIX TEEN, PROJ ELEVEN, twelve
+  * Judge 15 : Project 1, seven"te'en, NineTeen, five, thir-teen
+  * Judge 16 : Project 2, Project 1, ten, tw,en,ty, twelve
+  * Judge 17 : 14, PROJ ELEVEN, SIX TEEN, nine, 15
+  * Judge 18 : SIX TEEN, four, eight, seven, five
+  * Judge 19 : thir-teen, seven"te'en, Project 3, NineTeen, six
+
+Awaiting responses ======================
+
+Received ranking from judge 2: ['Project 1', 'seven', 'eight', 'ten', 'NineTeen']
+  * Calculating preliminary full rankings
+  * {'Project 1': {'seven': 1, 'eight': 1, 'ten': 1, 'NineTeen': 1}, 'seven': {'eight': 1, 'ten': 1, 'NineTeen': 1}, 'eight': {'ten': 1, 'NineTeen': 1}, 'ten': {'NineTeen': 1}, 'NineTeen': {}}
+  * Project 1 -> Wins: 4, Losses: 0, Percent: 1.00
+  * seven -> Wins: 3, Losses: 1, Percent: 0.75
+  * eight -> Wins: 2, Losses: 2, Percent: 0.50
+  * ten -> Wins: 1, Losses: 3, Percent: 0.25
+  * NineTeen -> Wins: 0, Losses: 4, Percent: 0.00
+  * Full ranking (approximate): [('Project 1', {'wins': 4, 'losses': 0, 'percent': 1.0}), ('seven', {'wins': 3, 'losses': 1, 'percent': 0.75}), ('eight', {'wins': 2, 'losses': 2, 'percent': 0.5}), ('ten', {'wins': 1, 'losses': 3, 'percent': 0.25}), ('NineTeen', {'wins': 0, 'losses': 4, 'percent': 0.0})]

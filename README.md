@@ -5,5 +5,5 @@
 ## Dependencies
 Requires `flask`.
 ## Issues
-- [ ] Distribution system problem duplication
+- [x] Distribution system project duplication
 - [x] Slowness of exact mFAS calculation

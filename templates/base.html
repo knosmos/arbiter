@@ -17,18 +17,31 @@
                 grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
                 grid-gap: 20px;
             }
-            .box {
-                border: 2px solid var(--focus);
-                padding: 10px;
-                margin-bottom: 10px;
-                border-radius: 5px;
-                background-color: rgb(253, 253, 253);
-                cursor: pointer;
+            @counter-style circled {
+                system: cyclic;
+                symbols: "❶" "❷" "❸" "❹" "❺";
+                suffix: "   ";
             }
-            .box::before {
-                content: "⠿ ";
-                color: var(--focus);
-                margin-right: 5px;
+            ol {
+                padding-left: 0;
+            }
+            .box {
+                padding: 15px;
+                margin-bottom: 20px;
+                border-radius: 10px;
+                background-color: rgb(237, 237, 237);
+                cursor: pointer;
+                list-style: circled inside;
+                font-size: 1.2em;
+                vertical-align:middle;
+            }
+            .box > a {
+                margin-left: 10px;
+            }
+            li::marker {
+                color: rgb(172, 172, 172);
+                vertical-align:middle;
+                padding-right: 20px;
             }
             fieldset {
                 border-width: 2px;
