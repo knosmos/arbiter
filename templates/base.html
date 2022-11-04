@@ -38,6 +38,33 @@
             table {
                 table-layout: auto;
             }
+            input[type="file"] {
+                background-color: transparent;
+                margin-left: 0px;
+                margin-right: 0px;
+                padding: 0px;
+            }
+            ::-webkit-file-upload-button, ::file-selector-button {
+                color: #1d1d1d;
+                color: var(--form-text);
+                background-color: #efefef;
+                background-color: var(--background);
+                font-family: inherit;
+                font-size: inherit;
+                margin-right: 6px;
+                margin-bottom: 6px;
+                padding: 10px;
+                border: none;
+                border-radius: 6px;
+                outline: none;
+                cursor: pointer;
+                transition: 0.1s all;
+            }
+
+            ::-webkit-file-upload-button:hover, ::file-selector-button:hover {
+                background: #9b9b9b;
+                background: var(--button-hover);
+            }
         </style>
         <h1>Arbiter</h1>
         {% block content %}

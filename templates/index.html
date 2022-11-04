@@ -3,10 +3,18 @@
 <h2>HackPHS 2022 Judging System</h2>
 <hr>
 <p><i>All systems nominal</i></p>
-<form method="post">
-    <input type="submit" value="Refresh">
+<button onclick="location.href='log'">Server Log</button>
+<button onclick="reload()">Refresh</button>
+<br>
+<hr>
+<br>
+Loaded file: {{ csv_filename }}
+<form method="post" enctype=multipart/form-data onSubmit="document.getElementById('submit').disabled=true;">
+    <input type="file" value="Select CSV" style="float:left" name="file" accept = ".csv" id="file" required>
+    <input type="submit" value="Load File" style="float:right">
 </form>
-<a href="/log">Server Log</a>
+<br clear=both>
+<hr>
 <p>Received responses from {{ total - awaiting|length }}/{{ total }} judges</p>
 <p>Awaiting responses from:
 {% for judge in awaiting %}
@@ -52,5 +60,8 @@
 <p>Insufficient data to construct ranking.</p>
 {% endif %}
 <hr>
-Built by Jieruei Chang @knosmos with &lt;3
+<footer>
+    Built by Jieruei Chang <a href="jieruei.github.io">@knosmos</a> with &lt;3<br>
+    Hosted on Render
+</footer>
 {% endblock %}

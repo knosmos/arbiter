@@ -16,20 +16,32 @@ print("Initializing Flask app")
 app = Flask(__name__)
 print("Time is", datetime.datetime.now())
 
-# load entries from csv
-with open(os.path.join(THIS_FOLDER, 'data/entries.csv'), newline='') as csvfile:
-    reader = csv.reader(csvfile, delimiter=',', quotechar='"')
-    entries = list(reader)
-print("Detected Entries ======================", important=True)
-for j in [", ".join(i) for i in entries]:
-    print(j)
-
-# distribute entries
-assignments = distribute.distribute(entries, NUM_JUDGES)
+entries = []
 rankings = {}
 full_ranking = []
 top_5_exact = []
 rankings_graph = []
+assignments = []
+
+csv_filename = ""
+
+def initialize():
+    global entries, assignments, rankings, full_ranking, top_5_exact, rankings_graph
+
+    # load entries from csv
+    with open(os.path.join(THIS_FOLDER, 'data/entries.csv'), newline='') as csvfile:
+        reader = csv.reader(csvfile, delimiter=',', quotechar='"')
+        entries = list(reader)
+    print("Detected Entries ======================", important=True)
+    for j in [", ".join(i) for i in entries]:
+        print(j)
+
+    # distribute entries
+    assignments = distribute.distribute(entries, NUM_JUDGES)
+    rankings = {}
+    full_ranking = []
+    top_5_exact = []
+    rankings_graph = []
 
 print("Awaiting responses ======================", important=True)
 
@@ -70,28 +82,33 @@ def log_view():
 
 @app.route('/', methods=["GET", "POST"])
 def index_view():
-    global top_5_exact, full_ranking, rankings, rankings_graph
+    global top_5_exact, full_ranking, rankings, rankings_graph, csv_filename
     if request.method == "POST":
-        if len(full_ranking) > 0:
-            # calculate exact mfas
-            top_5 = full_ranking[:5]
-            exact_fas_input = {}
-            for i in top_5:
-                exact_fas_input[i[0]] = {
-                    j : rankings_graph[i[0]][j]
-                    for j in rankings_graph[i[0]].keys()
-                    if j in [
-                        k[0] for k in top_5
-                    ]
-                }
-            print("Exact FAS input:", exact_fas_input)
-            top_5_exact = arc_feedback.exact_fas(exact_fas_input)
-            print("Top 5 exact:", top_5_exact)
+        # Load CSV
+        file = request.files['file']
+        file.save(os.path.join(THIS_FOLDER, 'data/entries.csv'))
+        csv_filename = file.filename
+        initialize()
+
+    if len(full_ranking) > 0:
+        # calculate exact mfas
+        top_5 = full_ranking[:5]
+        exact_fas_input = {}
+        for i in top_5:
+            exact_fas_input[i[0]] = {
+                j : rankings_graph[i[0]][j]
+                for j in rankings_graph[i[0]].keys()
+                if j in [
+                    k[0] for k in top_5
+                ]
+            }
+        print("Exact FAS input:", exact_fas_input)
+        top_5_exact = arc_feedback.exact_fas(exact_fas_input)
+        print("Top 5 exact:", top_5_exact)
 
     total = NUM_JUDGES
-    print(full_ranking)
     awaiting = [i for i in range(total) if str(i) not in rankings.keys()]
-    return render_template("index.html", total=total, awaiting=awaiting, ranking=full_ranking, top5=top_5_exact)
+    return render_template("index.html", total=total, awaiting=awaiting, ranking=full_ranking, top5=top_5_exact, csv_filename=csv_filename)
 
 if __name__ == '__main__':
     app.run("0.0.0.0", 5000, debug=True)
