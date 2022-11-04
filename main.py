@@ -2,13 +2,14 @@
 Server code and full application flow.
 '''
 
-import arc_feedback, distribute, toposort
-from flask import Flask, request, jsonify, render_template
-import csv, datetime
+import arc_feedback, distribute
+from flask import Flask, request, render_template
+import csv, datetime, os
 from log import print
 
 # constants
 NUM_JUDGES = 20
+THIS_FOLDER = os.path.dirname(os.path.abspath(__file__))
 
 print("Starting server ======================", important=True)
 print("Initializing Flask app")
@@ -16,7 +17,7 @@ app = Flask(__name__)
 print("Time is", datetime.datetime.now())
 
 # load entries from csv
-with open('data/entries.csv', newline='') as csvfile:
+with open(os.path.join(THIS_FOLDER, 'data/entries.csv'), newline='') as csvfile:
     reader = csv.reader(csvfile, delimiter=',', quotechar='"')
     entries = list(reader)
 print("Detected Entries ======================", important=True)

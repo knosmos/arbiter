@@ -2,9 +2,11 @@
 Logging utilities
 '''
 
-import builtins
+import builtins, os
 
-log_file = "log.txt"
+THIS_FOLDER = os.path.dirname(os.path.abspath(__file__))
+
+log_file = os.path.join(THIS_FOLDER, 'log.txt')
 
 def print(*args, important=False, **kwargs):
     '''
