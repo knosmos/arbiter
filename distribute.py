@@ -35,7 +35,8 @@ def distribute(entries, num_judges, entries_per_judge = 5):
             print("Graph connectivity test passed")
         repeated = False
         for i in res:
-            if len(set(i)) != len(i):
+            k = [j[0] for j in res[i]]
+            if len(set(k)) != len(k):
                 repeated = True
         if repeated:
             print("Repeating assignments detected, trying again")
