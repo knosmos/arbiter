@@ -2,6 +2,8 @@
 Simple topological sort implementation.
 '''
 
+from log import print
+
 def toposort(data):
     # First pass: build a dict mapping each item to a set of its
     # dependencies, and a set of all items with no known dependencies.
@@ -26,6 +28,5 @@ def toposort(data):
                 del deps[dep]
 
     if deps:
-        raise ValueError('Cyclic dependencies exist among these items: {}'
-                         .format(', '.join(repr(x) for x in deps)))
+        return False
     return result

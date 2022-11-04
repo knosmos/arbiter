@@ -3,14 +3,36 @@
 <h2>HackPHS 2022 Judging System</h2>
 <hr>
 <p><i>All systems nominal</i></p>
+<form method="post">
+    <input type="submit" value="Refresh">
+</form>
 <a href="/log">Server Log</a>
 <p>Received responses from {{ total - awaiting|length }}/{{ total }} judges</p>
 <p>Awaiting responses from:
 {% for judge in awaiting %}
-    {{ judge }},
+    <a href="/rank/{{ judge }}">{{ judge }}</a>,
 {% endfor %}
 </p>
-<h3>Current Ranking:</h3>
+<hr>
+<h3>Current Top 5 Ranking:</h3>
+{% if top5 %}
+<table>
+    <tr>
+        <th>Rank</th>
+        <th>Project</th>
+    </tr>
+    {% for project in top5 %}
+    <tr>
+        <td>{{ loop.index }}</td>
+        <td>{{ project }}</td>
+    </tr>
+    {% endfor %}
+</table>
+{% else %}
+<p>Insufficient data to construct ranking.</p>
+{% endif %}
+<hr>
+<h3>Current Full Ranking:</h3>
 {% if ranking %}
 <table>
     <tr>
@@ -29,5 +51,6 @@
 {% else %}
 <p>Insufficient data to construct ranking.</p>
 {% endif %}
-
+<hr>
+Built by Jieruei Chang @knosmos with &lt;3
 {% endblock %}
