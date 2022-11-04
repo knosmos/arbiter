@@ -65,7 +65,7 @@ def rank_view(id):
 
 @app.route('/log')
 def log_view():
-    log = open("log.txt", "r").read()
+    log = open(os.path.join(THIS_FOLDER, "log.txt"), "r").read()
     return render_template("log.html", log=log)
 
 @app.route('/', methods=["GET", "POST"])
