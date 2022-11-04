@@ -18,7 +18,8 @@ def distribute(entries, num_judges, entries_per_judge = 5):
     print(f"Number of rounds: {rounds}")
 
     connected = False
-    while not connected:
+    repeated = True
+    while repeated or not connected:
         print("Generating assignments...")
         entry_list = []
         for i in range(rounds):
@@ -32,6 +33,14 @@ def distribute(entries, num_judges, entries_per_judge = 5):
             print("Graph connectivity error, trying again")
         else:
             print("Graph connectivity test passed")
+        repeated = False
+        for i in res:
+            if len(set(i)) != len(i):
+                repeated = True
+        if repeated:
+            print("Repeating assignments detected, trying again")
+        else:
+            print("No repeating assignments found")
     for i in range(len(res)):
         print("Judge", i, ":", ", ".join([k[0] for k in res[i]]))
     return res
