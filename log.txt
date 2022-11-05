@@ -4677,3 +4677,782 @@ Received ranking from judge 2: ['eight', 'nine', 'thir-teen', 'SIX TEEN', 'tw,en
   * Full ranking (approximate): [('eight', {'wins': 4, 'losses': 0, 'percent': 1.0}), ('nine', {'wins': 3, 'losses': 1, 'percent': 0.75}), ('thir-teen', {'wins': 2, 'losses': 2, 'percent': 0.5}), ('SIX TEEN', {'wins': 1, 'losses': 3, 'percent': 0.25}), ('tw,en,ty', {'wins': 0, 'losses': 4, 'percent': 0.0})]
   * Exact FAS input: {'eight': {'nine': 1, 'thir-teen': 1, 'SIX TEEN': 1, 'tw,en,ty': 1}, 'nine': {'thir-teen': 1, 'SIX TEEN': 1, 'tw,en,ty': 1}, 'thir-teen': {'SIX TEEN': 1, 'tw,en,ty': 1}, 'SIX TEEN': {'tw,en,ty': 1}, 'tw,en,ty': {}}
   * Top 5 exact: ['eight', 'nine', 'thir-teen', 'SIX TEEN', 'tw,en,ty']
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-05 12:28:03.581383
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : four, seven"te'en, SIX TEEN, NineTeen, Project 3
+  * Judge 1 : seven, tw,en,ty, six, 15, PROJ ELEVEN
+  * Judge 2 : 14, eight, five, twelve, ten
+  * Judge 3 : nine, Project 2, Project 1, SIX TEEN, thir-teen
+  * Judge 4 : SIX TEEN, five, Project 2, 14, 15
+  * Judge 5 : Project 3, seven"te'en, nine, eight, twelve
+  * Judge 6 : ten, tw,en,ty, Project 1, six, four
+  * Judge 7 : thir-teen, NineTeen, PROJ ELEVEN, SIX TEEN, seven
+  * Judge 8 : SIX TEEN, 15, PROJ ELEVEN, five, Project 2
+  * Judge 9 : twelve, 14, Project 3, six, four
+  * Judge 10 : eight, ten, SIX TEEN, Project 1, tw,en,ty
+  * Judge 11 : thir-teen, nine, seven, NineTeen, seven"te'en
+  * Judge 12 : 15, Project 3, thir-teen, nine, ten
+  * Judge 13 : tw,en,ty, eight, SIX TEEN, Project 1, seven
+  * Judge 14 : NineTeen, SIX TEEN, 14, twelve, Project 2
+  * Judge 15 : six, PROJ ELEVEN, five, seven"te'en, four
+  * Judge 16 : four, six, eight, thir-teen, 14
+  * Judge 17 : seven"te'en, seven, PROJ ELEVEN, NineTeen, Project 1
+  * Judge 18 : ten, twelve, SIX TEEN, tw,en,ty, Project 2
+  * Judge 19 : 15, SIX TEEN, Project 3, nine, five
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-05 12:28:04.089709
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : Project 2, eight, tw,en,ty, seven, twelve
+  * Judge 1 : thir-teen, SIX TEEN, nine, Project 1, 14
+  * Judge 2 : five, NineTeen, Project 3, four, seven"te'en
+  * Judge 3 : PROJ ELEVEN, 15, six, ten, SIX TEEN
+  * Judge 4 : four, twelve, Project 1, 14, eight
+  * Judge 5 : SIX TEEN, seven, 15, five, Project 2
+  * Judge 6 : SIX TEEN, seven"te'en, PROJ ELEVEN, thir-teen, nine
+  * Judge 7 : NineTeen, tw,en,ty, six, Project 3, ten
+  * Judge 8 : Project 2, tw,en,ty, five, NineTeen, nine
+  * Judge 9 : SIX TEEN, ten, seven, Project 1, eight
+  * Judge 10 : thir-teen, seven"te'en, SIX TEEN, six, twelve
+  * Judge 11 : 15, 14, Project 3, four, PROJ ELEVEN
+  * Judge 12 : four, tw,en,ty, Project 2, eight, seven"te'en
+  * Judge 13 : thir-teen, nine, NineTeen, five, 14
+  * Judge 14 : twelve, Project 1, SIX TEEN, PROJ ELEVEN, Project 3
+  * Judge 15 : 15, seven, six, ten, SIX TEEN
+  * Judge 16 : seven, eight, four, ten, Project 3
+  * Judge 17 : SIX TEEN, six, PROJ ELEVEN, Project 2, NineTeen
+  * Judge 18 : seven"te'en, 14, twelve, SIX TEEN, 15
+  * Judge 19 : thir-teen, Project 1, tw,en,ty, five, nine
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-05 15:57:12.867869
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : eight, seven"te'en, PROJ ELEVEN, Project 2, four
+  * Judge 1 : nine, NineTeen, six, thir-teen, SIX TEEN
+  * Judge 2 : 15, five, ten, twelve, 14
+  * Judge 3 : tw,en,ty, seven, Project 3, Project 1, SIX TEEN
+  * Judge 4 : Project 2, twelve, Project 1, 15, ten
+  * Judge 5 : SIX TEEN, eight, thir-teen, PROJ ELEVEN, tw,en,ty
+  * Judge 6 : seven, seven"te'en, nine, six, four
+  * Judge 7 : SIX TEEN, Project 3, NineTeen, five, 14
+  * Judge 8 : eight, twelve, Project 2, SIX TEEN, tw,en,ty
+  * Judge 9 : seven, 15, five, PROJ ELEVEN, NineTeen
+  * Judge 10 : ten, Project 3, SIX TEEN, thir-teen, six
+  * Judge 11 : seven"te'en, 14, nine, Project 1, four
+  * Judge 12 : Project 3, six, ten, SIX TEEN, seven"te'en
+  * Judge 13 : NineTeen, twelve, four, 15, 14
+  * Judge 14 : thir-teen, tw,en,ty, PROJ ELEVEN, five, eight
+  * Judge 15 : seven, nine, Project 1, Project 2, SIX TEEN
+  * Judge 16 : tw,en,ty, NineTeen, Project 1, seven, thir-teen
+  * Judge 17 : Project 3, 15, four, six, SIX TEEN
+  * Judge 18 : 14, twelve, ten, Project 2, five
+  * Judge 19 : nine, SIX TEEN, seven"te'en, PROJ ELEVEN, eight
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-05 15:57:13.147122
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : four, eight, seven"te'en, 14, NineTeen
+  * Judge 1 : twelve, six, SIX TEEN, PROJ ELEVEN, Project 2
+  * Judge 2 : five, seven, tw,en,ty, Project 3, SIX TEEN
+  * Judge 3 : 15, ten, nine, Project 1, thir-teen
+  * Judge 4 : NineTeen, PROJ ELEVEN, Project 3, seven"te'en, 14
+  * Judge 5 : SIX TEEN, Project 1, seven, Project 2, eight
+  * Judge 6 : four, five, tw,en,ty, ten, SIX TEEN
+  * Judge 7 : twelve, nine, 15, six, thir-teen
+  * Judge 8 : eight, Project 1, ten, Project 3, 14
+  * Judge 9 : twelve, SIX TEEN, four, six, seven"te'en
+  * Judge 10 : 15, SIX TEEN, PROJ ELEVEN, nine, five
+  * Judge 11 : Project 2, seven, thir-teen, NineTeen, tw,en,ty
+  * Judge 12 : seven"te'en, six, Project 3, ten, tw,en,ty
+  * Judge 13 : NineTeen, thir-teen, seven, nine, eight
+  * Judge 14 : 14, SIX TEEN, Project 1, PROJ ELEVEN, 15
+  * Judge 15 : twelve, Project 2, four, five, SIX TEEN
+  * Judge 16 : thir-teen, nine, Project 1, twelve, five
+  * Judge 17 : Project 2, PROJ ELEVEN, SIX TEEN, ten, 15
+  * Judge 18 : Project 3, four, six, seven"te'en, tw,en,ty
+  * Judge 19 : eight, NineTeen, seven, 14, SIX TEEN
+
+Awaiting responses ======================
+
+Detected Entries ======================
+  * alpha, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * beta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * gamma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * delta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * epsilon, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * zeta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * theta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * iota, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * kappa, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * lambda, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * mu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * xi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * omicron, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * pi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * rho, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * sigma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tau, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * upsilon, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : lambda, mu, iota, omicron, eta
+  * Judge 1 : sigma, alpha, epsilon, nu, gamma
+  * Judge 2 : rho, kappa, beta, tau, upsilon
+  * Judge 3 : xi, pi, theta, zeta, delta
+  * Judge 4 : delta, iota, theta, nu, alpha
+  * Judge 5 : zeta, lambda, rho, pi, epsilon
+  * Judge 6 : eta, beta, gamma, xi, sigma
+  * Judge 7 : kappa, upsilon, mu, tau, omicron
+  * Judge 8 : pi, iota, delta, zeta, upsilon
+  * Judge 9 : theta, xi, gamma, eta, sigma
+  * Judge 10 : lambda, alpha, omicron, kappa, tau
+  * Judge 11 : rho, mu, beta, nu, epsilon
+  * Judge 12 : pi, gamma, mu, alpha, lambda
+  * Judge 13 : iota, theta, eta, sigma, epsilon
+  * Judge 14 : rho, tau, delta, omicron, nu
+  * Judge 15 : upsilon, zeta, beta, xi, kappa
+  * Judge 16 : beta, nu, pi, zeta, kappa
+  * Judge 17 : theta, mu, sigma, lambda, eta
+  * Judge 18 : gamma, tau, alpha, iota, xi
+  * Judge 19 : rho, delta, epsilon, upsilon, omicron
+
+Received ranking from judge 0: ['mu', 'iota', 'omicron', 'eta', 'lambda']
+  * Calculating preliminary full rankings
+  * {'mu': {'iota': 1, 'omicron': 1, 'eta': 1, 'lambda': 1}, 'iota': {'omicron': 1, 'eta': 1, 'lambda': 1}, 'omicron': {'eta': 1, 'lambda': 1}, 'eta': {'lambda': 1}, 'lambda': {}}
+  * mu -> Wins: 4, Losses: 0, Percent: 1.00
+  * iota -> Wins: 3, Losses: 1, Percent: 0.75
+  * omicron -> Wins: 2, Losses: 2, Percent: 0.50
+  * eta -> Wins: 1, Losses: 3, Percent: 0.25
+  * lambda -> Wins: 0, Losses: 4, Percent: 0.00
+  * Full ranking (approximate): [('mu', {'wins': 4, 'losses': 0, 'percent': 1.0}), ('iota', {'wins': 3, 'losses': 1, 'percent': 0.75}), ('omicron', {'wins': 2, 'losses': 2, 'percent': 0.5}), ('eta', {'wins': 1, 'losses': 3, 'percent': 0.25}), ('lambda', {'wins': 0, 'losses': 4, 'percent': 0.0})]
+
+Detected Entries ======================
+  * alpha, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * beta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * gamma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * delta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * epsilon, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * zeta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * theta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * iota, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * kappa, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * lambda, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * mu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * xi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * omicron, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * pi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * rho, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * sigma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tau, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * upsilon, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : kappa, mu, tau, beta, gamma
+  * Judge 1 : epsilon, xi, nu, upsilon, delta
+  * Judge 2 : theta, rho, sigma, iota, pi
+  * Judge 3 : alpha, zeta, eta, omicron, lambda
+  * Judge 4 : mu, beta, omicron, iota, zeta
+  * Judge 5 : epsilon, delta, rho, alpha, upsilon
+  * Judge 6 : gamma, eta, lambda, sigma, pi
+  * Judge 7 : theta, nu, xi, tau, kappa
+  * Judge 8 : rho, eta, theta, mu, zeta
+  * Judge 9 : delta, kappa, nu, alpha, iota
+  * Judge 10 : pi, gamma, tau, epsilon, omicron
+  * Judge 11 : sigma, beta, upsilon, lambda, xi
+  * Judge 12 : nu, eta, kappa, upsilon, sigma
+  * Judge 13 : zeta, theta, iota, beta, omicron
+  * Judge 14 : delta, rho, alpha, mu, epsilon
+  * Judge 15 : pi, lambda, xi, tau, gamma
+  * Judge 16 : iota, omicron, upsilon, tau, pi
+  * Judge 17 : epsilon, gamma, mu, xi, beta
+  * Judge 18 : eta, rho, delta, sigma, nu
+  * Judge 19 : lambda, alpha, zeta, kappa, theta
+
+Detected Entries ======================
+  * alpha, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * beta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * gamma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * delta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * epsilon, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * zeta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * theta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * iota, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * kappa, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * lambda, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * mu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * xi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * omicron, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * pi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * rho, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * sigma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tau, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * upsilon, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : xi, theta, tau, nu, sigma
+  * Judge 1 : omicron, zeta, epsilon, mu, beta
+  * Judge 2 : alpha, pi, iota, gamma, rho
+  * Judge 3 : upsilon, delta, eta, kappa, lambda
+  * Judge 4 : eta, gamma, omicron, sigma, tau
+  * Judge 5 : theta, alpha, pi, nu, zeta
+  * Judge 6 : lambda, beta, delta, epsilon, iota
+  * Judge 7 : xi, rho, mu, kappa, upsilon
+  * Judge 8 : pi, mu, zeta, nu, upsilon
+  * Judge 9 : rho, sigma, iota, xi, tau
+  * Judge 10 : omicron, delta, alpha, theta, eta
+  * Judge 11 : epsilon, lambda, beta, kappa, gamma
+  * Judge 12 : iota, omicron, lambda, beta, delta
+  * Judge 13 : epsilon, tau, rho, zeta, sigma
+  * Judge 14 : theta, nu, pi, xi, mu
+  * Judge 15 : upsilon, alpha, kappa, eta, gamma
+  * Judge 16 : rho, zeta, tau, alpha, lambda
+  * Judge 17 : iota, mu, xi, kappa, theta
+  * Judge 18 : eta, upsilon, sigma, omicron, delta
+  * Judge 19 : pi, nu, epsilon, gamma, beta
+
+Received ranking from judge 0: ['mu', 'iota', 'omicron', 'eta', 'lambda']
+  * Calculating preliminary full rankings
+  * {'mu': {'iota': 1, 'omicron': 1, 'eta': 1, 'lambda': 1}, 'iota': {'omicron': 1, 'eta': 1, 'lambda': 1}, 'omicron': {'eta': 1, 'lambda': 1}, 'eta': {'lambda': 1}, 'lambda': {}}
+  * mu -> Wins: 4, Losses: 0, Percent: 1.00
+  * iota -> Wins: 3, Losses: 1, Percent: 0.75
+  * omicron -> Wins: 2, Losses: 2, Percent: 0.50
+  * eta -> Wins: 1, Losses: 3, Percent: 0.25
+  * lambda -> Wins: 0, Losses: 4, Percent: 0.00
+  * Full ranking (approximate): [('mu', {'wins': 4, 'losses': 0, 'percent': 1.0}), ('iota', {'wins': 3, 'losses': 1, 'percent': 0.75}), ('omicron', {'wins': 2, 'losses': 2, 'percent': 0.5}), ('eta', {'wins': 1, 'losses': 3, 'percent': 0.25}), ('lambda', {'wins': 0, 'losses': 4, 'percent': 0.0})]
+
+Detected Entries ======================
+  * alpha, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * beta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * gamma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * delta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * epsilon, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * zeta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * theta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * iota, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * kappa, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * lambda, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * mu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * xi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * omicron, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * pi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * rho, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * sigma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tau, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * upsilon, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : rho, xi, delta, nu, gamma
+  * Judge 1 : upsilon, omicron, tau, alpha, beta
+  * Judge 2 : iota, kappa, sigma, epsilon, lambda
+  * Judge 3 : mu, zeta, pi, eta, theta
+  * Judge 4 : upsilon, eta, mu, kappa, gamma
+  * Judge 5 : epsilon, delta, pi, alpha, zeta
+  * Judge 6 : omicron, iota, beta, sigma, lambda
+  * Judge 7 : rho, tau, xi, theta, nu
+  * Judge 8 : upsilon, sigma, pi, alpha, delta
+  * Judge 9 : kappa, zeta, rho, tau, omicron
+  * Judge 10 : xi, mu, eta, theta, beta
+  * Judge 11 : iota, epsilon, gamma, nu, lambda
+  * Judge 12 : delta, pi, zeta, iota, tau
+  * Judge 13 : eta, alpha, mu, epsilon, gamma
+  * Judge 14 : upsilon, rho, xi, sigma, nu
+  * Judge 15 : beta, theta, omicron, kappa, lambda
+  * Judge 16 : epsilon, gamma, beta, eta, tau
+  * Judge 17 : kappa, nu, rho, xi, pi
+  * Judge 18 : sigma, upsilon, theta, mu, alpha
+  * Judge 19 : omicron, iota, delta, lambda, zeta
+
+Received ranking from judge 0: ['mu', 'iota', 'omicron', 'eta', 'lambda']
+  * Calculating preliminary full rankings
+  * {'mu': {'iota': 1, 'omicron': 1, 'eta': 1, 'lambda': 1}, 'iota': {'omicron': 1, 'eta': 1, 'lambda': 1}, 'omicron': {'eta': 1, 'lambda': 1}, 'eta': {'lambda': 1}, 'lambda': {}}
+  * mu -> Wins: 4, Losses: 0, Percent: 1.00
+  * iota -> Wins: 3, Losses: 1, Percent: 0.75
+  * omicron -> Wins: 2, Losses: 2, Percent: 0.50
+  * eta -> Wins: 1, Losses: 3, Percent: 0.25
+  * lambda -> Wins: 0, Losses: 4, Percent: 0.00
+  * Full ranking (approximate): [('mu', {'wins': 4, 'losses': 0, 'percent': 1.0}), ('iota', {'wins': 3, 'losses': 1, 'percent': 0.75}), ('omicron', {'wins': 2, 'losses': 2, 'percent': 0.5}), ('eta', {'wins': 1, 'losses': 3, 'percent': 0.25}), ('lambda', {'wins': 0, 'losses': 4, 'percent': 0.0})]
+  * Exact FAS input: {'mu': {'iota': 1, 'omicron': 1, 'eta': 1, 'lambda': 1}, 'iota': {'omicron': 1, 'eta': 1, 'lambda': 1}, 'omicron': {'eta': 1, 'lambda': 1}, 'eta': {'lambda': 1}, 'lambda': {}}
+  * Top 5 exact: ['mu', 'iota', 'omicron', 'eta', 'lambda']
+
+Received ranking from judge 1: ['upsilon', 'omicron', 'tau', 'alpha', 'beta']
+  * Calculating preliminary full rankings
+  * {'mu': {'iota': 1, 'omicron': 1, 'eta': 1, 'lambda': 1}, 'iota': {'omicron': 1, 'eta': 1, 'lambda': 1}, 'omicron': {'eta': 1, 'lambda': 1, 'tau': 1, 'alpha': 1, 'beta': 1}, 'eta': {'lambda': 1}, 'lambda': {}, 'upsilon': {'omicron': 1, 'tau': 1, 'alpha': 1, 'beta': 1}, 'tau': {'alpha': 1, 'beta': 1}, 'alpha': {'beta': 1}, 'beta': {}}
+  * mu -> Wins: 4, Losses: 0, Percent: 1.00
+  * upsilon -> Wins: 4, Losses: 0, Percent: 1.00
+  * iota -> Wins: 3, Losses: 1, Percent: 0.75
+  * omicron -> Wins: 5, Losses: 3, Percent: 0.62
+  * tau -> Wins: 2, Losses: 2, Percent: 0.50
+  * eta -> Wins: 1, Losses: 3, Percent: 0.25
+  * alpha -> Wins: 1, Losses: 3, Percent: 0.25
+  * lambda -> Wins: 0, Losses: 4, Percent: 0.00
+  * beta -> Wins: 0, Losses: 4, Percent: 0.00
+  * Full ranking (approximate): [('mu', {'wins': 4, 'losses': 0, 'percent': 1.0}), ('upsilon', {'wins': 4, 'losses': 0, 'percent': 1.0}), ('iota', {'wins': 3, 'losses': 1, 'percent': 0.75}), ('omicron', {'wins': 5, 'losses': 3, 'percent': 0.625}), ('tau', {'wins': 2, 'losses': 2, 'percent': 0.5}), ('eta', {'wins': 1, 'losses': 3, 'percent': 0.25}), ('alpha', {'wins': 1, 'losses': 3, 'percent': 0.25}), ('lambda', {'wins': 0, 'losses': 4, 'percent': 0.0}), ('beta', {'wins': 0, 'losses': 4, 'percent': 0.0})]
+  * Exact FAS input: {'mu': {'iota': 1, 'omicron': 1}, 'upsilon': {'omicron': 1, 'tau': 1}, 'iota': {'omicron': 1}, 'omicron': {'tau': 1}, 'tau': {}}
+  * Top 5 exact: ['upsilon', 'mu', 'iota', 'omicron', 'tau']
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-05 16:01:36.150961
+
+Detected Entries ======================
+  * alpha, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * beta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * gamma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * delta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * epsilon, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * zeta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * theta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * iota, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * kappa, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * lambda, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * mu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * xi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * omicron, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * pi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * rho, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * sigma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tau, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * upsilon, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : nu, rho, kappa, iota, eta
+  * Judge 1 : omicron, alpha, delta, theta, lambda
+  * Judge 2 : xi, tau, beta, mu, zeta
+  * Judge 3 : epsilon, sigma, pi, gamma, upsilon
+  * Judge 4 : zeta, pi, alpha, iota, epsilon
+  * Judge 5 : delta, sigma, tau, upsilon, beta
+  * Judge 6 : kappa, lambda, omicron, gamma, rho
+  * Judge 7 : nu, eta, xi, theta, mu
+  * Judge 8 : xi, beta, upsilon, lambda, tau
+  * Judge 9 : omicron, gamma, delta, iota, epsilon
+  * Judge 10 : zeta, mu, sigma, eta, theta
+  * Judge 11 : nu, kappa, pi, rho, alpha
+  * Judge 12 : nu, omicron, kappa, delta, sigma
+  * Judge 13 : mu, rho, tau, upsilon, theta
+  * Judge 14 : epsilon, eta, lambda, alpha, zeta
+  * Judge 15 : xi, gamma, iota, beta, pi
+  * Judge 16 : delta, gamma, zeta, iota, mu
+  * Judge 17 : kappa, xi, pi, upsilon, beta
+  * Judge 18 : alpha, tau, eta, rho, nu
+  * Judge 19 : theta, epsilon, lambda, omicron, sigma
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-05 16:01:36.429217
+
+Detected Entries ======================
+  * alpha, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * beta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * gamma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * delta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * epsilon, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * zeta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * theta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * iota, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * kappa, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * lambda, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * mu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * xi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * omicron, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * pi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * rho, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * sigma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tau, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * upsilon, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : rho, zeta, sigma, pi, tau
+  * Judge 1 : lambda, xi, alpha, kappa, mu
+  * Judge 2 : beta, gamma, epsilon, nu, upsilon
+  * Judge 3 : theta, delta, eta, omicron, iota
+  * Judge 4 : omicron, pi, lambda, zeta, nu
+  * Judge 5 : beta, alpha, epsilon, gamma, upsilon
+  * Judge 6 : rho, tau, eta, theta, delta
+  * Judge 7 : xi, iota, mu, sigma, kappa
+  * Judge 8 : alpha, nu, gamma, mu, pi
+  * Judge 9 : delta, upsilon, tau, kappa, iota
+  * Judge 10 : epsilon, zeta, theta, lambda, beta
+  * Judge 11 : omicron, rho, eta, sigma, xi
+  * Judge 12 : mu, tau, kappa, lambda, sigma
+  * Judge 13 : zeta, nu, eta, xi, gamma
+  * Judge 14 : pi, omicron, iota, alpha, delta
+  * Judge 15 : theta, beta, upsilon, rho, epsilon
+  * Judge 16 : theta, mu, omicron, sigma, epsilon
+  * Judge 17 : nu, xi, eta, rho, lambda
+  * Judge 18 : zeta, gamma, iota, pi, tau
+  * Judge 19 : delta, upsilon, beta, kappa, alpha
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-05 16:02:10.135453
+
+Detected Entries ======================
+  * alpha, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * beta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * gamma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * delta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * epsilon, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * zeta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * theta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * iota, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * kappa, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * lambda, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * mu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * xi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * omicron, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * pi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * rho, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * sigma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tau, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * upsilon, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : omicron, xi, lambda, beta, delta
+  * Judge 1 : rho, pi, theta, sigma, nu
+  * Judge 2 : alpha, zeta, iota, eta, kappa
+  * Judge 3 : upsilon, tau, mu, gamma, epsilon
+  * Judge 4 : beta, rho, xi, pi, upsilon
+  * Judge 5 : eta, mu, gamma, epsilon, alpha
+  * Judge 6 : theta, delta, zeta, nu, tau
+  * Judge 7 : iota, sigma, omicron, kappa, lambda
+  * Judge 8 : xi, delta, kappa, rho, beta
+  * Judge 9 : mu, sigma, theta, nu, epsilon
+  * Judge 10 : lambda, alpha, pi, omicron, gamma
+  * Judge 11 : iota, eta, tau, upsilon, zeta
+  * Judge 12 : theta, sigma, mu, kappa, upsilon
+  * Judge 13 : xi, iota, alpha, omicron, pi
+  * Judge 14 : eta, delta, gamma, tau, lambda
+  * Judge 15 : epsilon, beta, nu, zeta, rho
+  * Judge 16 : eta, theta, xi, iota, alpha
+  * Judge 17 : gamma, mu, beta, lambda, epsilon
+  * Judge 18 : omicron, pi, nu, delta, kappa
+  * Judge 19 : upsilon, tau, rho, zeta, sigma
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-05 16:02:10.406729
+
+Detected Entries ======================
+  * alpha, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * beta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * gamma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * delta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * epsilon, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * zeta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * theta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * iota, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * kappa, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * lambda, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * mu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * xi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * omicron, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * pi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * rho, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * sigma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tau, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * upsilon, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : sigma, pi, theta, omicron, upsilon
+  * Judge 1 : lambda, delta, beta, iota, mu
+  * Judge 2 : zeta, xi, gamma, epsilon, tau
+  * Judge 3 : rho, nu, eta, alpha, kappa
+  * Judge 4 : beta, kappa, pi, gamma, alpha
+  * Judge 5 : delta, sigma, eta, omicron, xi
+  * Judge 6 : nu, tau, mu, epsilon, upsilon
+  * Judge 7 : iota, zeta, theta, lambda, rho
+  * Judge 8 : pi, xi, beta, lambda, tau
+  * Judge 9 : alpha, upsilon, delta, eta, omicron
+  * Judge 10 : epsilon, theta, rho, nu, sigma
+  * Judge 11 : iota, gamma, zeta, mu, kappa
+  * Judge 12 : gamma, omicron, pi, epsilon, mu
+  * Judge 13 : zeta, xi, delta, sigma, alpha
+  * Judge 14 : tau, eta, lambda, nu, rho
+  * Judge 15 : theta, beta, iota, kappa, upsilon
+  * Judge 16 : kappa, zeta, theta, beta, pi
+  * Judge 17 : rho, gamma, epsilon, delta, upsilon
+  * Judge 18 : nu, iota, mu, xi, tau
+  * Judge 19 : lambda, omicron, alpha, sigma, eta
+
+Awaiting responses ======================
+
+Detected Entries ======================
+  * alpha, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * beta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * gamma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * delta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * epsilon, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * zeta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * theta, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * iota, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * kappa, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * lambda, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * mu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nu, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * xi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * omicron, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * pi, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * rho, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * sigma, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tau, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * upsilon, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : upsilon, lambda, epsilon, nu, iota
+  * Judge 1 : zeta, rho, theta, omicron, delta
+  * Judge 2 : sigma, tau, alpha, eta, xi
+  * Judge 3 : pi, beta, kappa, mu, gamma
+  * Judge 4 : gamma, eta, pi, zeta, nu
+  * Judge 5 : sigma, alpha, omicron, lambda, xi
+  * Judge 6 : epsilon, mu, rho, kappa, theta
+  * Judge 7 : iota, tau, beta, delta, upsilon
+  * Judge 8 : nu, tau, lambda, rho, upsilon
+  * Judge 9 : mu, pi, alpha, omicron, xi
+  * Judge 10 : gamma, sigma, iota, epsilon, delta
+  * Judge 11 : theta, eta, kappa, beta, zeta
+  * Judge 12 : sigma, delta, alpha, zeta, xi
+  * Judge 13 : eta, mu, rho, tau, omicron
+  * Judge 14 : lambda, upsilon, epsilon, theta, pi
+  * Judge 15 : nu, kappa, iota, beta, gamma
+  * Judge 16 : theta, nu, mu, rho, upsilon
+  * Judge 17 : iota, epsilon, lambda, tau, kappa
+  * Judge 18 : zeta, sigma, xi, alpha, gamma
+  * Judge 19 : pi, eta, delta, beta, omicron
+
+Received ranking from judge 0: ['iota', 'upsilon', 'lambda', 'epsilon', 'nu']
+  * Calculating preliminary full rankings
+  * {'iota': {'upsilon': 1, 'lambda': 1, 'epsilon': 1, 'nu': 1}, 'upsilon': {'lambda': 1, 'epsilon': 1, 'nu': 1}, 'lambda': {'epsilon': 1, 'nu': 1}, 'epsilon': {'nu': 1}, 'nu': {}}
+  * iota -> Wins: 4, Losses: 0, Percent: 1.00
+  * upsilon -> Wins: 3, Losses: 1, Percent: 0.75
+  * lambda -> Wins: 2, Losses: 2, Percent: 0.50
+  * epsilon -> Wins: 1, Losses: 3, Percent: 0.25
+  * nu -> Wins: 0, Losses: 4, Percent: 0.00
+  * Full ranking (approximate): [('iota', {'wins': 4, 'losses': 0, 'percent': 1.0}), ('upsilon', {'wins': 3, 'losses': 1, 'percent': 0.75}), ('lambda', {'wins': 2, 'losses': 2, 'percent': 0.5}), ('epsilon', {'wins': 1, 'losses': 3, 'percent': 0.25}), ('nu', {'wins': 0, 'losses': 4, 'percent': 0.0})]
+  * Exact FAS input: {'iota': {'upsilon': 1, 'lambda': 1, 'epsilon': 1, 'nu': 1}, 'upsilon': {'lambda': 1, 'epsilon': 1, 'nu': 1}, 'lambda': {'epsilon': 1, 'nu': 1}, 'epsilon': {'nu': 1}, 'nu': {}}
+  * Top 5 exact: ['iota', 'upsilon', 'lambda', 'epsilon', 'nu']

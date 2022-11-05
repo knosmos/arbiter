@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 {% block content %}
+<script>
+    if ( window.history.replaceState ) {
+        window.history.replaceState( null, null, window.location.href );
+    } 
+</script>
 <h2>HackPHS 2022 Judging System</h2>
 <hr>
 <p><i>All systems nominal</i></p>
@@ -11,7 +16,7 @@
 Loaded file: {{ csv_filename }}<br><br>
 <form method="post" enctype=multipart/form-data onSubmit="document.getElementById('submit').disabled=true;">
     <input type="file" value="Select CSV" style="float:left" name="file" accept = ".csv" id="file" required>
-    <input type="submit" value="Load File" style="float:right">
+    <input type="submit" value="Load File" style="float:right" id="submit">
 </form>
 <br clear=both>
 <hr>
