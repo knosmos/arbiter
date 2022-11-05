@@ -4541,3 +4541,139 @@ Received ranking from judge 2: ['Project 1', 'seven', 'eight', 'ten', 'NineTeen'
   * ten -> Wins: 1, Losses: 3, Percent: 0.25
   * NineTeen -> Wins: 0, Losses: 4, Percent: 0.00
   * Full ranking (approximate): [('Project 1', {'wins': 4, 'losses': 0, 'percent': 1.0}), ('seven', {'wins': 3, 'losses': 1, 'percent': 0.75}), ('eight', {'wins': 2, 'losses': 2, 'percent': 0.5}), ('ten', {'wins': 1, 'losses': 3, 'percent': 0.25}), ('NineTeen', {'wins': 0, 'losses': 4, 'percent': 0.0})]
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-04 21:04:19.907864
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : tw,en,ty, four, 15, eight, seven
+  * Judge 1 : nine, five, SIX TEEN, PROJ ELEVEN, Project 3
+  * Judge 2 : Project 1, seven"te'en, twelve, NineTeen, six
+  * Judge 3 : 14, ten, SIX TEEN, thir-teen, Project 2
+  * Judge 4 : tw,en,ty, thir-teen, seven, NineTeen, nine
+  * Judge 5 : SIX TEEN, 15, five, seven"te'en, six
+  * Judge 6 : twelve, ten, Project 1, SIX TEEN, PROJ ELEVEN
+  * Judge 7 : 14, eight, Project 3, Project 2, four
+  * Judge 8 : PROJ ELEVEN, seven"te'en, five, six, ten
+  * Judge 9 : seven, twelve, Project 1, SIX TEEN, Project 2
+  * Judge 10 : SIX TEEN, eight, four, Project 3, thir-teen
+  * Judge 11 : NineTeen, 15, tw,en,ty, 14, nine
+  * Judge 12 : Project 1, Project 2, SIX TEEN, PROJ ELEVEN, seven
+  * Judge 13 : ten, twelve, tw,en,ty, eight, 15
+  * Judge 14 : Project 3, four, thir-teen, NineTeen, SIX TEEN
+  * Judge 15 : seven"te'en, 14, six, five, nine
+  * Judge 16 : twelve, Project 1, SIX TEEN, Project 2, PROJ ELEVEN
+  * Judge 17 : seven, nine, tw,en,ty, Project 3, thir-teen
+  * Judge 18 : SIX TEEN, ten, 14, seven"te'en, five
+  * Judge 19 : 15, four, NineTeen, eight, six
+
+Awaiting responses ======================
+
+Starting server ======================
+  * Initializing Flask app
+  * Time is 2022-11-04 21:04:20.196591
+
+Detected Entries ======================
+  * Project 1, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 2, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * Project 3, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * four, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * five, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * six, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * eight, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * nine, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * ten, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * PROJ ELEVEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * twelve, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * thir-teen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 14, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * 15, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * SIX TEEN, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * seven"te'en, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * NineTeen, project description here, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  * tw,en,ty, really long project description here lorem ipsum dors les amet, https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Project Distribution ======================
+  * Number of judges: 20
+  * Number of entries per judge: 5
+  * Number of rounds: 5
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * Repeating assignments detected, trying again
+  * Generating assignments...
+  * Graph connectivity test passed
+  * No repeating assignments found
+  * Judge 0 : seven"te'en, SIX TEEN, PROJ ELEVEN, NineTeen, four
+  * Judge 1 : five, 14, ten, Project 2, twelve
+  * Judge 2 : tw,en,ty, thir-teen, eight, nine, SIX TEEN
+  * Judge 3 : Project 1, seven, six, 15, Project 3
+  * Judge 4 : eight, seven, SIX TEEN, four, PROJ ELEVEN
+  * Judge 5 : NineTeen, tw,en,ty, ten, SIX TEEN, Project 1
+  * Judge 6 : seven"te'en, 14, six, nine, Project 2
+  * Judge 7 : twelve, 15, five, thir-teen, Project 3
+  * Judge 8 : NineTeen, SIX TEEN, seven"te'en, nine, thir-teen
+  * Judge 9 : six, twelve, five, eight, SIX TEEN
+  * Judge 10 : Project 2, seven, four, Project 3, 15
+  * Judge 11 : PROJ ELEVEN, ten, 14, Project 1, tw,en,ty
+  * Judge 12 : 15, SIX TEEN, tw,en,ty, twelve, seven
+  * Judge 13 : PROJ ELEVEN, ten, Project 3, NineTeen, four
+  * Judge 14 : Project 1, thir-teen, six, Project 2, eight
+  * Judge 15 : five, nine, 14, seven"te'en, SIX TEEN
+  * Judge 16 : tw,en,ty, Project 1, Project 2, Project 3, twelve
+  * Judge 17 : seven, four, SIX TEEN, nine, eight
+  * Judge 18 : 14, thir-teen, six, ten, NineTeen
+  * Judge 19 : seven"te'en, SIX TEEN, PROJ ELEVEN, five, 15
+
+Awaiting responses ======================
+
+Received ranking from judge 2: ['eight', 'nine', 'thir-teen', 'SIX TEEN', 'tw,en,ty']
+  * Calculating preliminary full rankings
+  * {'eight': {'nine': 1, 'thir-teen': 1, 'SIX TEEN': 1, 'tw,en,ty': 1}, 'nine': {'thir-teen': 1, 'SIX TEEN': 1, 'tw,en,ty': 1}, 'thir-teen': {'SIX TEEN': 1, 'tw,en,ty': 1}, 'SIX TEEN': {'tw,en,ty': 1}, 'tw,en,ty': {}}
+  * eight -> Wins: 4, Losses: 0, Percent: 1.00
+  * nine -> Wins: 3, Losses: 1, Percent: 0.75
+  * thir-teen -> Wins: 2, Losses: 2, Percent: 0.50
+  * SIX TEEN -> Wins: 1, Losses: 3, Percent: 0.25
+  * tw,en,ty -> Wins: 0, Losses: 4, Percent: 0.00
+  * Full ranking (approximate): [('eight', {'wins': 4, 'losses': 0, 'percent': 1.0}), ('nine', {'wins': 3, 'losses': 1, 'percent': 0.75}), ('thir-teen', {'wins': 2, 'losses': 2, 'percent': 0.5}), ('SIX TEEN', {'wins': 1, 'losses': 3, 'percent': 0.25}), ('tw,en,ty', {'wins': 0, 'losses': 4, 'percent': 0.0})]
+  * Exact FAS input: {'eight': {'nine': 1, 'thir-teen': 1, 'SIX TEEN': 1, 'tw,en,ty': 1}, 'nine': {'thir-teen': 1, 'SIX TEEN': 1, 'tw,en,ty': 1}, 'thir-teen': {'SIX TEEN': 1, 'tw,en,ty': 1}, 'SIX TEEN': {'tw,en,ty': 1}, 'tw,en,ty': {}}
+  * Top 5 exact: ['eight', 'nine', 'thir-teen', 'SIX TEEN', 'tw,en,ty']
