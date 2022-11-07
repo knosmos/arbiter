@@ -5,5 +5,8 @@
 ## Dependencies
 Requires `flask`.
 ## Issues
+- [ ] Store all votes in case of server outage
+- [ ] Possible frontend dashboard glitch where not all entries are shown
+- [ ] Ensure all projects are seen a roughly equal number of times
 - [x] Distribution system project duplication
 - [x] Slowness of exact mFAS calculation
